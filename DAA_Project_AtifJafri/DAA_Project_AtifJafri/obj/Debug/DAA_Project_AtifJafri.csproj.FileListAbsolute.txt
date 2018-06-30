@@ -1,0 +1,2 @@
+c:\users\ali\documents\visual studio 2013\Projects\DAA_Project_AtifJafri\DAA_Project_AtifJafri\bin\Debug\DAA_Project_AtifJafri.exe.config
+c:\users\ali\documents\visual studio 2013\Projects\DAA_Project_AtifJafri\DAA_Project_AtifJafri\obj\Debug\DAA_Project_AtifJafri.csprojResolveAssemblyReference.cache
